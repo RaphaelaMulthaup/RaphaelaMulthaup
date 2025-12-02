@@ -1,5 +1,5 @@
 <div align="center" background-color="#679aac" width="500px" height="400px">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"/>
+  <img height="200" src="./images/25-KD6A1250-2a.jpg>
 </div>
 
 
