@@ -1,7 +1,4 @@
 <h1>💻 Frontend Developer • Raphaela 👩🏻‍💻</h1>
-<h2>
-  Mein Portfolio: <a href="https://raphaela-multhaup.de">www.raphaela-multhaup.de</a> 🌐
-</h2>
 
 <p align="left">
   I'm Raphaela, a passionate Frontend Developer who loves building clean, user-friendly web applications.  
@@ -19,6 +16,7 @@
   🧪 I enjoy solving problems by experimenting and improving iteratively<br>
   🤝 Passionate about building user-friendly interfaces and smooth UX<br>
   🚀 Always excited to learn new tools and enhance my workflow<br>
+  🌐 My Portfolio: <a href="https://raphaela-multhaup.de">www.raphaela-multhaup.de</a>
 </p>
 
 
