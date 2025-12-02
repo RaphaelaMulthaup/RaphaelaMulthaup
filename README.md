@@ -1,6 +1,6 @@
 <h1>💻 Frontend Developer • Raphaela 👩🏻‍💻</h1>
 <h2>
-  🌐 Mein Portfolio: <a href="https://raphaela-multhaup.de">www.raphaela-multhaup.de</a>
+  Mein Portfolio: <a href="https://raphaela-multhaup.de">www.raphaela-multhaup.de</a> 🌐
 </h2>
 
 <p align="left">
