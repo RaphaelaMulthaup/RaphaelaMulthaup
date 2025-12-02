@@ -1,5 +1,5 @@
 <div align="center" style="background-color:#679aac; width:500px; height:400px;">
-  <img height="200" src="./images/25 - KD6A1250-2a.jpg" alt="Mein Bild">
+  <img height="200" src="./images/31 - KD6A1454b.jpg" alt="Mein Bild">
 </div>
 
 
