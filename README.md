@@ -1,3 +1,8 @@
+<div align="center" background-color="#679aac" width="500px" height="400px">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"/>
+</div>
+
+
 <h1 align="left">💻 Frontend Developer • Raphaela 👩🏻‍💻</h1>
 
 <p align="left">
