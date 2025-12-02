@@ -1,6 +1,7 @@
-<div align="center" background-color="#679aac" width="500px" height="400px">
-  <img height="200" src="./images/25-KD6A1250-2a.jpg>
+<div align="center" style="background-color:#679aac; width:500px; height:400px;">
+  <img height="200" src="./images/25 - KD6A1250-2a.jpg" alt="Mein Bild">
 </div>
+
 
 
 <h1 align="left">💻 Frontend Developer • Raphaela 👩🏻‍💻</h1>
