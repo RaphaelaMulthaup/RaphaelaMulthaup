@@ -1,10 +1,17 @@
-<div align="center" style="background-color:#679aac; width:500px; height:400px;">
-  <img height="200" src="./images/31 - KD6A1454b.jpg" alt="Mein Bild">
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <!-- Linke Seite: Text -->
+  <div style="text-align: left; max-width: 50%; 0">
+    <h1>Raphaela 👩🏻‍💻<br>💻 Frontend Developer</h1>
+    <p>Ein bisschen Beschreibung hier...</p>
+  </div>
+
+  <!-- Rechte Seite: Bild -->
+  <div style="max-width: 50%;">
+    <img src="./images/31 - KD6A1454b.jpg" alt="Mein Bild" style="max-width: 100%; height: auto;">
+  </div>
 </div>
 
 
-
-<h1 align="left">💻 Frontend Developer • Raphaela 👩🏻‍💻</h1>
 
 <p align="left">
   I'm Raphaela, a passionate Frontend Developer who loves building clean, user-friendly web applications.  
